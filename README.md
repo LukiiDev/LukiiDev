@@ -1,4 +1,4 @@
-# 👋 Hey, I'm L0XG
+# 👋 Hey, I'm Lukii
 
 🚀 Aspiring Cybersecurity Enthusiast  
 💻 Python & Lua Developer  
